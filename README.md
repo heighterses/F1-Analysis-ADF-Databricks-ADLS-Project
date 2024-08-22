@@ -62,6 +62,9 @@ Developed a presentation layer using SQL to join different tables and provide vi
 
 ### 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 📊:
 Connected the presentation layer to Power BI, enabling data analysts to perform further analysis and visualization.
+![Screenshot (103)](https://github.com/user-attachments/assets/6946853c-17ee-4e42-b27b-9d96064700da)
+
+##### *P.S.: The connection with Power BI hasn't been completed yet.*
 
 ### 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 🤖:
 Utilized 𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮 𝗙𝗮𝗰𝘁𝗼𝗿𝘆 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲 𝗮 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲 that automates the entire process. When new data is added to the raw container, the pipeline is triggered automatically, processing the data through all the engineering steps.
