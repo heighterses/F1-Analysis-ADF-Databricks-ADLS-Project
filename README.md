@@ -62,7 +62,7 @@ Developed a presentation layer using SQL to join different tables and provide vi
 
 ### 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 📊:
 Connected the presentation layer to Power BI, enabling data analysts to perform further analysis and visualization.
-![Screenshot (103)](https://github.com/user-attachments/assets/6946853c-17ee-4e42-b27b-9d96064700da)
+![Screenshot (103)](https://github.com/user-attachments/assets/cd28f728-5977-4874-93de-02af1c2aa303)
 
 ##### *P.S.: The connection with Power BI hasn't been completed yet.*
 
